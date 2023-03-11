@@ -8,7 +8,6 @@ Convert each of the digits in a phone number to its associated letters to form w
 |Input|Output|
 |-----|------|
 |234-5678|beg lost|
-|-----|------|
 |223-5653|abe joke, abe jole, be loke, ace joke, ace jole, ace loke, bad joke, bad jole, bad loke, cad joke, cad jole, cad loke|
 
 ## Limitations
